@@ -1,0 +1,19 @@
+[
+    {
+        "id": "001",
+        "desc": "Bolacha Waflle",
+        "qtde": "10"
+    },
+
+    {
+        "id": "002",
+        "desc": "Amandita",
+        "qtde": "5"
+    },
+
+    {
+        "id": "003",
+        "desc": "Bolinho Panco",
+        "qtde": "15"
+    }
+]

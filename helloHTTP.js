@@ -19,7 +19,7 @@ var callback = function(request, response){
     }
     
     else{
-        response.end("Rota Inválida -404");
+        response.end("Rota Inválida - 404");
     }
 }
 
